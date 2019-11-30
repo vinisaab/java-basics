@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BalancoTrimestral",
+            "request": "launch",
+            "mainClass": "BalancoTrimestral"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - variaveis",
+            "request": "launch",
+            "mainClass": "variaveis"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VamosLa",
+            "request": "launch",
+            "mainClass": "VamosLa"
+        }
+    ]
+}
