@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Condicionais",
+            "request": "launch",
+            "mainClass": "Condicionais"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BalancoTrimestral",
             "request": "launch",
             "mainClass": "BalancoTrimestral"

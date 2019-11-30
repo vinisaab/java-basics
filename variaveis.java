@@ -1,5 +1,7 @@
+import java.util.function.Function;
+
 //variaveis
-public class variaveis {
+public class Variaveis {
     public static void main(String[] args) {
         int idade;
         int idadeNoAnoQueVem;
@@ -11,6 +13,9 @@ public class variaveis {
 
         System.out.println("Chama Calculadora");
         calc(args);
+
+        System.out.println("Chama Conversão");
+        converte();
     }
 
     public static void calc(String[] args) {
@@ -25,5 +30,14 @@ public class variaveis {
         System.out.println(oito);
         System.out.println(dezesseis);
         System.out.println(um);
+
+    }
+
+    public static void converte() {
+        double d3 = 3.14;
+        // ERRO - int i = d3;
+        int i = (int) d3;
+
+        System.out.println("teste conversão double - int: " + i);
     }
 }
