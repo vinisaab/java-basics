@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestaFib",
+            "request": "launch",
+            "mainClass": "TestaFib"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaFuncionario",
+            "request": "launch",
+            "mainClass": "TestaFuncionario"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaCarro",
+            "request": "launch",
+            "mainClass": "TestaCarro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - media",
+            "request": "launch",
+            "mainClass": "media"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - custo",
+            "request": "launch",
+            "mainClass": "custo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dolar",
+            "request": "launch",
+            "mainClass": "dolar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - operacoes",
+            "request": "launch",
+            "mainClass": "operacoes"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Programa",
             "request": "launch",
             "mainClass": "Programa"

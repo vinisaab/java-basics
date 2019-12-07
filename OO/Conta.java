@@ -8,6 +8,7 @@ public class Conta {
     double saldo;
     double limite;
     double salario;
+    Cliente titular;
 
     boolean saca (double quantidade) {
         
