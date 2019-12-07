@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestaEmpresa",
+            "request": "launch",
+            "mainClass": "TestaEmpresa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Empresa",
+            "request": "launch",
+            "mainClass": "Empresa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array",
+            "request": "launch",
+            "mainClass": "Array"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestaFib",
             "request": "launch",
             "mainClass": "TestaFib"
